@@ -78,13 +78,13 @@ For additional information on getting started with Yellowbrick, view the quickst
 
 Yellowbrick is an open source project that is supported by a community who will gratefully and humbly accept any contributions you might make to the project. Large or small, any contribution makes a big difference; and if you've never contributed to an open source project before, we hope you will start with Yellowbrick!
 
-If you are interested in contributing, check out our [contributor's guide](https://www.scikit-yb.org/en/latest/contributing.html). Beyond creating visualizers, there are many ways to contribute:
+If you are interested in contributing, check out our [contributor's guide](https://www.scikit-yb.org/en/latest/contributing/index.html). Beyond creating visualizers, there are many ways to contribute:
 
 - Submit a bug report or feature request on [GitHub Issues](https://github.com/DistrictDataLabs/yellowbrick/issues).
 - Contribute a Jupyter notebook to our examples[ gallery](https://github.com/DistrictDataLabs/yellowbrick/tree/develop/examples).
 - Assist us with [user testing](https://www.scikit-yb.org/en/latest/evaluation.html).
 - Add to the documentation or help with our website, [scikit-yb.org](https://www.scikit-yb.org).
-- [Write unit or integration tests](https://www.scikit-yb.org/en/latest/contributing.html#testing) for our project.
+- [Write unit or integration tests](https://www.scikit-yb.org/en/latest/contributing/advanced_development_topics.html#testing-conventions) for our project.
 - Answer questions on our issues, mailing list, Stack Overflow, and elsewhere.
 - Translate our documentation into another language.
 - Write a blog post, tweet, or share our project with others.
